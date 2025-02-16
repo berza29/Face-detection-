@@ -1,0 +1,5 @@
+C:\Users\Berza\RiderProjects\WPFClient\obj\Release\net7.0-windows\win-x64\WPFClient.csproj.AssemblyReference.cache
+C:\Users\Berza\RiderProjects\WPFClient\obj\Release\net7.0-windows\win-x64\MainWindow.g.cs
+C:\Users\Berza\RiderProjects\WPFClient\obj\Release\net7.0-windows\win-x64\App.g.cs
+C:\Users\Berza\RiderProjects\WPFClient\obj\Release\net7.0-windows\win-x64\WPFClient_MarkupCompile.cache
+C:\Users\Berza\RiderProjects\WPFClient\obj\Release\net7.0-windows\win-x64\WPFClient_MarkupCompile.lref

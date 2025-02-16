@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_0.png",
+      "PackagePath": "staticwebassets\\Data files\\file_0.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_1.png",
+      "PackagePath": "staticwebassets\\Data files\\file_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_10.png",
+      "PackagePath": "staticwebassets\\Data files\\file_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_2.png",
+      "PackagePath": "staticwebassets\\Data files\\file_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_3.png",
+      "PackagePath": "staticwebassets\\Data files\\file_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_4.png",
+      "PackagePath": "staticwebassets\\Data files\\file_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_5.png",
+      "PackagePath": "staticwebassets\\Data files\\file_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_6.png",
+      "PackagePath": "staticwebassets\\Data files\\file_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_7.png",
+      "PackagePath": "staticwebassets\\Data files\\file_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_8.png",
+      "PackagePath": "staticwebassets\\Data files\\file_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\Data files\\file_9.png",
+      "PackagePath": "staticwebassets\\Data files\\file_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Documents\\RiderProjects\\GrpcServer\\wwwroot\\files\\video.mp4",
+      "PackagePath": "staticwebassets\\files\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GrpcServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GrpcServer.props",
+      "PackagePath": "build\\GrpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GrpcServer.props",
+      "PackagePath": "buildMultiTargeting\\GrpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GrpcServer.props",
+      "PackagePath": "buildTransitive\\GrpcServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

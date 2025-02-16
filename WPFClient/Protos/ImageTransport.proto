@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "grpccDetectClient";
+
+package greet;
+
+import "google/protobuf/empty.proto";
+
+service DetectService {
+    rpc Predict (stream Images) returns (google.protobuf.Empty);
+    rpc Train (google.protobuf.Empty) returns (ResponseTrain);
+}
+
+message ResponseTrain {
+    enum Status {
+        SUCCESS = 0;
+        FAILED = 1;
+    }
+}
+
+message Images {
+    bytes content = 10;
+    string name = 20;
+}
+
+

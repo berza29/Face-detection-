@@ -1,0 +1,3 @@
+obj\Debug\net7.0-windows\Protos/ImageTransport.cs \
+obj\Debug\net7.0-windows\Protos/ImageTransportGrpc.cs: C:/Users/Lenovo/.nuget/packages/grpc.tools/2.59.0/build/native/include/google/protobuf/empty.proto\
+ Protos/ImageTransport.proto
